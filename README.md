@@ -1,6 +1,6 @@
 # Monitoring Dashboard-Vue
 
-Uptime Kuma is an easy-to-use self-hosted monitoring tool.
+It is an easy-to-use self-hosted monitoring tool.
 
 <img src="https://weblate.kuma.pet/widgets/uptime-kuma/-/svg-badge.svg" alt="Translation status" />
 </a>
@@ -97,7 +97,6 @@ https://github.com/louislam/uptime-kuma/wiki/%F0%9F%86%99-How-to-Update
 
 I will assign requests/issues to the next milestone.
 
-https://github.com/louislam/uptime-kuma/milestones
 
 ## ❤️ Sponsors
 
@@ -153,12 +152,11 @@ Check out the latest beta release here: https://github.com/louislam/uptime-kuma/
 
 ### Bug Reports / Feature Requests
 
-If you want to report a bug or request a new feature, feel free to open a [new issue](https://github.com/louislam/uptime-kuma/issues).
+If you want to report a bug or request a new feature, feel free to open a 
 
 ### Translations
 
-If you want to translate Uptime Kuma into your language, please visit [Weblate Readme](https://github.com/louislam/uptime-kuma/blob/master/src/lang/README.md).
-
+If you want to translate Uptime Kuma into your language, please visit 
 ### Spelling & Grammar
 
 Feel free to correct the grammar in the documentation or code.
